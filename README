@@ -1,0 +1,8 @@
+projekt najlatwiej otworzyc w Qt creatorze i tam do kompilowac.
+
+debugger nie jest jeszcze podpiety pod GUI prawdopodobnie trzeba bedzie je i tak zmienic bo Qtabwidget jest slabym rozwiazaniem.
+nie napisana zostala jeszcze obsluga plikow ani konwersja Brainfucka na inne jezyki programowania
+sam interpreter BF jest albo slabo zoptymalizowany albo ma jakis blad bo przy dluzszych programach bf nie daje wynikow
+
+przykladowy kod ktory jest napisany wymaga podania parametrow postaci "znak liczba_dwucyfrowa" pomiedzy argumentami MUSI byc spacja kod wyprodukuje trojkat 
+ze znakow znak o podstawie dlugosci liczba_dwucyfrowa
