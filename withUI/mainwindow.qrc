@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/qt.png</file>
+        <file>images/save.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/debug.png</file>
+        <file>images/next.png</file>
+        <file>images/paste.png</file>
+        <file>images/redo.png</file>
+        <file>images/run.png</file>
+        <file>images/stop.png</file>
+        <file>images/undo.png</file>
+        <file>examples/fibb.b</file>
+        <file>examples/HELLOBF_.b</file>
+        <file>examples/mandelbrot.b</file>
+        <file>examples/ostatni_binarna_cyfra.b</file>
+        <file>examples/quine505.b</file>
+        <file>examples/qwerty_to_dvorak.b</file>
+        <file>examples/rot13.b</file>
+        <file>examples/srednia.b</file>
+        <file>examples/szyfr_cezara.b</file>
+        <file>examples/toupper.b</file>
+        <file>examples/trojkat.b</file>
+    </qresource>
+</RCC>
